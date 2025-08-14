@@ -48,12 +48,7 @@ You can work with this dataset in:
 2. Open the **`ISM Store`** sheet.
 3. Perform analysis using Excel or run the sample Python script below:
 
-```python
-import pandas as pd
 
-df = pd.read_excel("ISM Store Data Analysis.xlsx", sheet_name="ISM Store")
-print(df.head())
-
-![Sales Trend](Screenshot 2025-08-15 001422.png)
+![Sales Trend](https://github.com/LikithHarsha/ISM-store-Data-Dashboard/blob/f97d38704481092a629c14b7717688976c21103b/Screenshot%202025-08-15%20001422.png)
 
 
