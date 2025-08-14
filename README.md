@@ -53,3 +53,7 @@ import pandas as pd
 
 df = pd.read_excel("ISM Store Data Analysis.xlsx", sheet_name="ISM Store")
 print(df.head())
+
+![Sales Trend]()
+
+
