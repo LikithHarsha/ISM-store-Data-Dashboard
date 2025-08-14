@@ -54,6 +54,6 @@ import pandas as pd
 df = pd.read_excel("ISM Store Data Analysis.xlsx", sheet_name="ISM Store")
 print(df.head())
 
-![Sales Trend]()
+![Sales Trend](https://github.com/LikithHarsha/ISM-store-Data-Dashboard/blob/9c29dae5a6257e1a383a166af3cff85cd2a36157/Screenshot%202025-08-15%20001422.png)
 
 
